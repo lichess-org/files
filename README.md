@@ -1,2 +1,3 @@
-# files
-Public downloads
+# Lichess Files
+
+Public downloads for Lichess enjoyers.
