@@ -1,1 +1,1 @@
-Horsey was created by [cham](https://lichess.org/@/cham).
+Horsey was created by [cham](https://lichess.org/@/cham) and is licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
